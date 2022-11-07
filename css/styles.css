@@ -1,0 +1,58 @@
+:hover.buton-bs{
+    background-color: aqua;
+    color: #000;
+    letter-spacing: 2px;
+    /* text-decoration:underline; */
+}
+
+.container-main{
+    background-color: aliceblue;
+}
+
+.header-title{
+     font-family: 'Abril Fatface', cursive; 
+}
+
+.card-title-artistas{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 60px;
+    border-top: 2px solid rgb(57, 9, 57);
+    border-bottom: 2px solid rgb(57, 9, 57);
+}
+
+.card-title-info-pop{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 60px;
+}
+
+.parrafo-pop{
+    font-size: 23px;
+}
+
+.button-ver-artista{
+    width:100%;
+    border-radius:100px;
+}
+
+.button-leer-mas{
+    width:30%;
+    border-radius:100px;
+}
+
+.canciones-famosas{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 40px;
+    color:#000;
+}
+
+.button-form{
+    margin-left: 25%;
+    width:50%;
+    border-radius:100px;
+}
+
+.img-pop-music{
+    width: 150%;
+    border-radius: 10%;
+    margin: 20px;
+}
